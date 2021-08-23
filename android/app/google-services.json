@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763354036261",
+    "project_id": "silentmoon-3ce0d",
+    "storage_bucket": "silentmoon-3ce0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763354036261:android:2da70b80ea2a52c49b67cc",
+        "android_client_info": {
+          "package_name": "com.silentmoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763354036261-ehql1p7ajmhvb688jjr59cu62gho8gej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTVclWgv97X6RxQ7pOncWmvYdT1fJUUJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763354036261-ehql1p7ajmhvb688jjr59cu62gho8gej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
